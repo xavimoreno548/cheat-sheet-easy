@@ -5,3 +5,9 @@ en ellos se presentan tanto las expresiones como ejemplos de su implemententaci�
 
 Este sheet se ira complementando secuencialmente, por ello algunas partes no estaran completas
 al momento de ser subido.
+
+## Tabla de contenido
+- Importaciones.
+- Importación de datos.
+- Transformaciones.
+- Información del conjunto de datos.
